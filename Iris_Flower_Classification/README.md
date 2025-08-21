@@ -1,7 +1,7 @@
 # 🌸 Iris Flower Classification (Pro Version)
 
 [![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 This project classifies iris flowers into **Setosa, Versicolor, and Virginica** using multiple ML models.  
