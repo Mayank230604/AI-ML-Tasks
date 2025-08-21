@@ -56,12 +56,15 @@ Python, Numpy, Pandas, Scikit-learn, NLTK, Matplotlib, WordCloud, Joblib
 AI-ML-Tasks/
 ├─ Iris\_Flower\_Classification/
 │   ├─ data/
+|   ├─ figures
 │   ├─ src/
 │   └─ Iris\_Classification\_Summary\_Report.pdf
 └─ Spam-Mail-Detector/
-├─ data/
-├─ src/
-└─ Spam\_Mail\_Detector\_Report.pdf
+    ├─ data/
+    ├─ figures
+    ├─ models
+    ├─ src/
+    └─ Spam\_Mail\_Detector\_Report.pdf
 
 ```
 
