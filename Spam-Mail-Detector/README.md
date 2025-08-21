@@ -1,8 +1,8 @@
 # 📧 Spam Mail Detector (Pro+ Version)
 
-![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-green.svg)
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-3.9.1-orange?logo=nltk&logoColor=white)](https://www.nltk.org/)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ## 📌 Overview
