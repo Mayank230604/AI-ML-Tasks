@@ -86,7 +86,3 @@ AI-ML-Tasks/
 ---
 
 Feel free to explore, give feedback, or use these projects for learning! 🚀
-```
-
----
-
