@@ -1,14 +1,14 @@
 # AI/ML Training Program Projects 🚀
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Numpy](https://img.shields.io/badge/Numpy-1.25-blue?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.6-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blue?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.12-blueviolet?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![NLTK](https://img.shields.io/badge/NLTK-3.8-orange?logo=nltk&logoColor=white)](https://www.nltk.org/)
-[![WordCloud](https://img.shields.io/badge/WordCloud-1.9-blue?logo=python&logoColor=white)](https://amueller.github.io/word_cloud/)
-[![Joblib](https://img.shields.io/badge/Joblib-1.3-blue?logo=python&logoColor=white)](https://joblib.readthedocs.io/)
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-1.26.1-blue?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.1.3-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.1-blue?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-blueviolet?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-3.9.1-orange?logo=nltk&logoColor=white)](https://www.nltk.org/)
+[![WordCloud](https://img.shields.io/badge/WordCloud-1.9.4-blue?logo=python&logoColor=white)](https://amueller.github.io/word_cloud/)
+[![Joblib](https://img.shields.io/badge/Joblib-1.3.2-blue?logo=python&logoColor=white)](https://joblib.readthedocs.io/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com/Mayank230604/AI-ML-Tasks)
 
 Welcome! This repository contains the projects I completed as part of my **AI/ML training program**. The goal was to build **robust, high-performance machine learning models** while going beyond the basics.
